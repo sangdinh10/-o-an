@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{AD593795-72EA-4B55-8E4B-B9CFED184D14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DOAN", "Admin\DOAN.csproj", "{72FADF26-6B35-42F1-9768-71D918B3C06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreAPI", "BookStoreAPI\BookStoreAPI.csproj", "{FD208680-3CE5-4A85-8041-D465BDD4DE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD593795-72EA-4B55-8E4B-B9CFED184D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD593795-72EA-4B55-8E4B-B9CFED184D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD593795-72EA-4B55-8E4B-B9CFED184D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD593795-72EA-4B55-8E4B-B9CFED184D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72FADF26-6B35-42F1-9768-71D918B3C06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FADF26-6B35-42F1-9768-71D918B3C06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FADF26-6B35-42F1-9768-71D918B3C06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FADF26-6B35-42F1-9768-71D918B3C06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD208680-3CE5-4A85-8041-D465BDD4DE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD208680-3CE5-4A85-8041-D465BDD4DE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD208680-3CE5-4A85-8041-D465BDD4DE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD208680-3CE5-4A85-8041-D465BDD4DE33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DB22ED-0D2D-4F5D-8A4E-E579AA84F109}
+	EndGlobalSection
+EndGlobal
